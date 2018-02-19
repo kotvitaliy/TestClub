@@ -1,0 +1,10 @@
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('1', 'Audi');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('2', 'Mercedes');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('3', 'BMW');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('4', 'Toyota');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('5', 'Skoda');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('6', 'Mazda');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('7', 'Volkswagen');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('8', 'Honda');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('9', 'Suzuki');
+INSERT INTO `project`.`project` (`p_id`, `name`) VALUES ('10', 'Nissan');
